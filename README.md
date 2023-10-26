@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-(https://github-readme-stats.vercel.app/api/top-langs/?username=bburakolgunn&hide_progress=true)
+https://github-readme-stats.vercel.app/api/top-langs/?username=bburakolgunn&hide_progress=true
 
 
 
